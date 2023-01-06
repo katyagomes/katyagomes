@@ -1,7 +1,7 @@
 ### Olá, eu sou a Kátya Gomes👋
 
 - 🔭 Atualmente trabalho com CSS e HTML
-- 🌱 Estou aprendendo JAVA e javascript
+- 🌱 Estou aprendendo JAVA, Javascript,Typescript e Python
 - 💬 Contate-me no email: katyavitoria8@gmail.com
 - 😄 Pronomes: ela/dela
 <div align="center">
