@@ -1,23 +1,142 @@
-### Olá, eu sou a Kátya Gomes👋
+# **Katya Gomes — Technical Profile / Perfil Técnico**
 
-- 🔭 Atualmente trabalho com CSS e HTML
-- 🌱 Estou aprendendo JAVA, Javascript,Typescript e Python
-- 💬 Contate-me no email: katyavitoria8@gmail.com
-- 😄 Pronomes: ela/dela
-<div align="center">
-  <a href="https://github.com/katyagomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katyagomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyagomes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Katya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Katya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Katya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Katya-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
-  
-  ##
- <div> 
-  <a href = "mailto:katyavitoria8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/katya-vyt%C3%B3ria-de-lima-veriato-gomes-b84251222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Brh8ucVcsR8qqHesCISXycg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:katyavitoria8@gmail.com)
+![Status](https://img.shields.io/badge/Available_for_Remote_Opportunities-Yes-success)
+
+---
+
+# **English Version**
+
+## **About Me**
+
+I am an IT professional focused on Systems Administration, Networking, Infrastructure, Information Security, and DevOps practices.  
+My work is oriented toward backend engineering, automation, secure deployment pipelines, and cloud-based environments.
+
+I am currently looking for remote opportunities where I can contribute to systems reliability, security, observability, and automation.
+
+---
+
+## **Technical Stack**
+
+### **Programming & Scripting**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![ShellScript](https://img.shields.io/badge/ShellScript-121011?logo=gnu-bash&logoColor=white)
+
+### **DevOps & Infrastructure as Code**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue)
+
+### **Systems & Servers**
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Servers](https://img.shields.io/badge/Servers-Administration-lightgrey)
+![Web Servers](https://img.shields.io/badge/Web_Servers-Management-green)
+
+### **Networking & Security**
+![IPv4](https://img.shields.io/badge/IPv4-Configuration-informational)
+![IPv6](https://img.shields.io/badge/IPv6-Configuration-informational)
+![Routing](https://img.shields.io/badge/Routing-Protocols-blue)
+![Security](https://img.shields.io/badge/Security-DevSecOps-red)
+
+### **Cloud & Automation**
+![Containers](https://img.shields.io/badge/Containers-Orchestration-blueviolet)
+![Automation](https://img.shields.io/badge/Automation-Scripting-yellow)
+
+---
+
+## **Professional Focus**
+
+- Backend engineering and secure API development  
+- Infrastructure as Code and automated deployments  
+- DevSecOps practices and secure CI/CD pipelines  
+- Cloud-based environments and container orchestration  
+- Monitoring, observability and performance optimization  
+- Network configuration, routing and secure architectures  
+
+---
+
+## **Highlighted Projects**
+
+https://github.com/katyagomes/ransoware_keylogger_simulator_final2025
+https://github.com/katyagomes/pentest_kali_metasploitable2
+https://github.com/katyagomes/DesafioProjetoHospedagem
+---
+
+## **Contact**
+Email: katyavitoria8@gmail.com  
+LinkedIn: https://www.linkedin.com/in/katya-gomes
+
+---
+
+# **Versão em Português**
+
+## **Sobre Mim**
+
+Sou profissional de TI com foco em Administração de Sistemas, Redes, Infraestrutura, Segurança da Informação e práticas de DevOps.  
+Minha atuação está voltada para engenharia backend, automação, pipelines seguros e ambientes orientados à cloud.
+
+Busco atualmente oportunidades remotas onde eu possa atuar com confiabilidade de sistemas, segurança, observabilidade e automação.
+
+---
+
+## **Stack Técnica**
+
+### **Programação & Scripts**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![ShellScript](https://img.shields.io/badge/ShellScript-121011?logo=gnu-bash&logoColor=white)
+
+### **DevOps & Infraestrutura como Código**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-blue)
+
+### **Sistemas & Servidores**
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Servers](https://img.shields.io/badge/Servidores-Administração-lightgrey)
+![Web Servers](https://img.shields.io/badge/Servidores_Web-Gestão-green)
+
+### **Redes & Segurança**
+![IPv4](https://img.shields.io/badge/IPv4-Configuração-informational)
+![IPv6](https://img.shields.io/badge/IPv6-Configuração-informational)
+![Routing](https://img.shields.io/badge/Roteamento-Protocolo-blue)
+![Security](https://img.shields.io/badge/Segurança-DevSecOps-red)
+
+### **Cloud & Automação**
+![Containers](https://img.shields.io/badge/Containers-Orquestração-blueviolet)
+![Automation](https://img.shields.io/badge/Automação-Scripts-yellow)
+
+---
+
+## **Foco Profissional**
+
+- Engenharia backend e desenvolvimento seguro de APIs  
+- Infraestrutura como código e deploy automatizado  
+- DevSecOps e pipelines com segurança integrada  
+- Ambientes cloud e orquestração de containers  
+- Observabilidade, monitoramento e performance  
+- Configuração de redes, roteamento e arquiteturas seguras  
+
+---
+
+## **Projetos em Destaque**
+
+https://github.com/katyagomes/ransoware_keylogger_simulator_final2025
+https://github.com/katyagomes/pentest_kali_metasploitable2
+https://github.com/katyagomes/DesafioProjetoHospedagem)
+---
+
+## **Contato**
+Email: katyavitoria8@gmail.com  
+LinkedIn: https://www.linkedin.com/in/katya-gomes
+
+---
+
