@@ -131,7 +131,7 @@ Busco atualmente oportunidades remotas onde eu possa atuar com confiabilidade de
 
 https://github.com/katyagomes/ransoware_keylogger_simulator_final2025
 https://github.com/katyagomes/pentest_kali_metasploitable2
-https://github.com/katyagomes/DesafioProjetoHospedagem)
+https://github.com/katyagomes/DesafioProjetoHospedagem
 ---
 
 ## **Contato**
